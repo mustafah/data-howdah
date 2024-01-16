@@ -17,7 +17,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="data-howdah",
-    version="1.0.0",
+    version="1.0.1",
     description="Effortlessly mask and encrypt your data frames for safe travel from computer to computer",
     long_description=long_description,
     long_description_content_type="text/markdown",

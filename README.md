@@ -2,13 +2,14 @@
 	DataHowdah ✨🔒📊✨
 </h1>
 <p align="center">
-  <em>DataHowdah: Effortlessly mask and 🔐 encrypt your data frames, ensuring their safety like a camel's secure howdah</em>
+  <em>DataHowdah: Effortlessly mask and 🔐 encrypt your data frames, ensuring their safety like a camel's secure howdah 🐪</em>
 </p>
 <p align="center">
-  <img alt="" src="https://badge.fury.io/py/dream-my-plots.svg"/>
+  <img alt="" src="https://badge.fury.io/py/data-howdah.svg"/>
 </p>
 
-![1704128527248](images/README/caravan2.jpeg)
+
+![1704128527248](https://github.com/mustafah/data-howdah/raw/main/images/README/caravan2.jpeg)
 
 # DataHowdah🌜✨🖼️
 
