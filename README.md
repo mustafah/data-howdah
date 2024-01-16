@@ -1,17 +1,16 @@
 <h1 align="center">
-	DataHowdah ✨🔒📊✨
+	DataHowdah ✨🔒🔢✨
 </h1>
 <p align="center">
   <em>DataHowdah: Effortlessly mask and 🔐 encrypt your data frames, ensuring their safety like a camel's secure howdah 🐪</em>
 </p>
 <p align="center">
-  <img alt="" src="https://badge.fury.io/py/data-howdah.svg"/>
+  <img alt="" style="border-radius: 8px" src="https://badge.fury.io/py/data-howdah.svg"/>
 </p>
-
 
 ![1704128527248](https://github.com/mustafah/data-howdah/raw/main/images/README/caravan2.jpeg)
 
-# DataHowdah🌜✨🖼️
+# DataHowdah ✨🔒🔢✨
 
 DataHowdah is a utility python class designed to mask or encrypt pandas data frames while sharing them on different machines. It extends the functionality of pandas DataFrames, offering encryption and noise addition features for sensitive data columns. By using plain simple passwords or integrating with Microsoft Azure Key Vault (and AWS, Google KWS), DataHowdah ensures that encryption keys are managed securely and efficiently. Its intuitive interface allows for seamless encryption and decryption of DataFrame columns, safeguarding data as it travels between systems.
 
