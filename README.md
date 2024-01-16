@@ -12,7 +12,7 @@
 
 # DataHowdah ✨🔒🔢✨
 
-DataHowdah is a utility python class designed to mask or encrypt pandas data frames while sharing them on different machines. It extends the functionality of pandas DataFrames, offering encryption and noise addition features for sensitive data columns. By using plain simple passwords or integrating with Microsoft Azure Key Vault (and AWS, Google KWS), DataHowdah ensures that encryption keys are managed securely and efficiently. Its intuitive interface allows for seamless encryption and decryption of DataFrame columns, safeguarding data as it travels between systems.
+DataHowdah is a utility python class designed to mask or encrypt pandas data frames while sharing them on different machines. It extends the functionality of pandas DataFrames, offering encryption and noise addition features for sensitive data columns. By using plain simple passwords or integrating with Microsoft Azure Key Vault (and AWS KMS), DataHowdah ensures that encryption keys are managed securely and efficiently. Its intuitive interface allows for seamless encryption and decryption of DataFrame columns, safeguarding data as it travels between systems.
 
 ```python
 from data_howdah import DataHowdah
@@ -48,7 +48,7 @@ Don't forget to install Azure CLI and login successfully
 az login
 ```
 
-AWS KWS and GCP KWS (coming soon!)
+AWS KMS (coming soon!)
 
 * 📈 Create or load your dataframe and pass it to DataHowdah:
 
