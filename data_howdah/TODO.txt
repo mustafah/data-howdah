@@ -1,0 +1,8 @@
+mask unmask
+encrypt decrypt
+
+parallelization
+
+aws/google cloud support
+
+Effortlessly mask and encrypt your data frames for safe travel from computer to computer, ensuring their data security like a camel's secure howdah !
